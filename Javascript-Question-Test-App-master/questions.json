@@ -1,0 +1,69 @@
+{
+   "1": {
+      "name": "Javascript",
+      "pass": 50,
+      "total": 5,
+      "units": {
+         "1": {
+            "name": "Introduction",
+            "questions": {
+               "1": {
+                  "q": "Javascript is?",
+                  "a": {
+                     "1": "Single-threaded",
+                     "2": "Multi-threaded",
+                     "3": "Double-threaded",
+                     "4": "None of the above"
+                  },
+                  "c": 1
+               },
+               "2": {
+                  "q": "JavaScript accepts?",
+                  "a": {
+                     "1": "Only double quotes",
+                     "2": "both double and single quotes",
+                     "3": "Only single quotes",
+                     "4": "Never except any quotes"
+                  },
+                  "c": 2
+               },
+               "3": {
+                  "q": "The type of Null & undefined are?",
+                  "a": {
+                     "1": "Both undefined",
+                     "2": "Both null",
+                     "3": "Null & object",
+                     "4": "Object & undefined"
+                  },
+                  "c": 4
+               }
+            }
+         },
+         "2": {
+            "name": "Variables & Functions",
+            "questions": {
+               "1": {
+                  "q": "How many types of functions Javascript support?",
+                  "a": {
+                     "1": "Named only",
+                     "2": "Anonymous only",
+                     "3": "Named and anonymous",
+                     "4": "Does not support any function type"
+                  },
+                  "c": 3
+               },
+               "2": {
+                  "q": "Var has?",
+                  "a": {
+                     "1": "Only block Scope",
+                     "2": "Function Scope only",
+                     "3": "Block scope & function scope both",
+                     "4": "No scope"
+                  },
+                  "c": 2
+               }
+            }
+         }
+      }
+   }
+}
